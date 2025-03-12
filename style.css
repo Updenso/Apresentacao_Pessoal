@@ -120,6 +120,10 @@ section {
   font-weight: bold;
   margin-top: 10px;
 }
+.container a:hover {
+  color: #9ccfc3;
+  transition: ease-out;
+}
 
 footer {
   text-align: center;
